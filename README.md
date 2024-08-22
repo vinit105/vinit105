@@ -4,7 +4,7 @@
     <h1 align="center">✨Vinit Garach✨</h1>
 </span>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Profile%2C;Hope+you+are;extremely+well+and+find;something+Helpful...&font=Fira%20+Code&pause=1000&color=%23D12F79&center=true&width=280&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Profile%2C;Hope+you+are;extremely+well+and+find;something+Insightful...&font=Fira%20+Code&pause=1000&color=%23D12F79&center=true&width=280&height=50">
 </p>
 <br>
 <h3 align="center">Creative and Innovative With Tech Knowledge</h3>
