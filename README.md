@@ -4,10 +4,9 @@
     <h1 align="center">✨Vinit Garach✨</h1>
 </span>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!;Welcome+to+my+Profile%2C;Hope+you+find;something+Helpful...&font=Fira%20+Code&pause=1000&color=%23D62F79&center=true&width=280&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Profile%2C;Hope+you+are;extremely+well+and+find;something+Helpful...&font=Fira%20+Code&pause=1000&color=%23D12F79&center=true&width=280&height=50">
 </p>
 <br>
-<h1 align="center">Hello 👋🏻, I'm Vinit Garach</h1>
 <h3 align="center">Creative and Innovative With Tech Knowledge</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinit105&label=Profile%20views&color=0e75b6&style=flat" alt="vinit105" /> </p>
