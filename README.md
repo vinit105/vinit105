@@ -17,7 +17,6 @@
 
 - ⚡ Tech fact **Saving Time is Future Investment!**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
