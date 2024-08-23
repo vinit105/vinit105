@@ -8,7 +8,6 @@
 </p>
 <br>
 <h3 align="center">Creative and Innovative With Tech Knowledge</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinit105&label=Profile%20views&color=0e75b6&style=flat" alt="vinit105" /> </p>
 
 - 🌱 I’m currently learning **Flutter and concept of dart with object oriented thinking**
