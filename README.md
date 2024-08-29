@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Flutter and concept of dart with object oriented thinking**
 
-- 📫 How to reach me **gva401@gmail.com**
+- 📫 To reach me **gva401@gmail.com**
 
 - ⚡ Tech fact **Saving Time is Future Investment!**
 
