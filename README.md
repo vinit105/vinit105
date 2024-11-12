@@ -8,7 +8,7 @@
 </p>
 <br>
 <h3 align="center">Creative and Innovative With Tech Knowledge</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinit105&label=Profile%20views&color=0e75b6&style=flat" alt="vinit105" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinit105&label=Profile%20views&color=204a9c&style=flat" alt="vinit105" /> </p>
 
 - 🌱 I’m currently learning **Flutter and concept of dart with object oriented thinking**
 
@@ -44,4 +44,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinit105&" alt="vinit" /></p>
 
 
-<p align="right"><a href="#"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0b6ab3&style=flat&logo" alt="Go to Top" /></a></p>
+<p align="right"><a href="#"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=99e4ef&style=flat&logo" alt="Go to Top" /></a></p>
