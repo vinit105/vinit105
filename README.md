@@ -1,7 +1,7 @@
 <img align="left" src="https://raw.githubusercontent.com/vinit105/Auto-commit/main/.GitHub/workflows/fIrE%2BiCE.gif" width="20%" style="display:inline;"><img align="right" src="https://raw.githubusercontent.com/vinit105/Auto-commit/main/.GitHub/workflows/fIrE%2BiCE.gif"  width="20%" style="display:inline;">
 <br>
 <span align="center">
-    <h1 align="center">✨Vinit Garach✨</h1>
+    <h1 align="center">✨Vinit✨</h1>
 </span>
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Profile%2C;Hope+you+are;extremely+well+and+find;something+Insightful...&font=Fira%20+Code&pause=1000&color=%23D12F79&center=true&width=280&height=50">
