@@ -43,5 +43,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinit105&show_icons=true&locale=en" alt="vinit" /></p>
 
-
-<p align="right"><a href="#"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=99e4ef&style=flat&logo" alt="Go to Top" /></a></p>
