@@ -14,7 +14,7 @@
 
 - 📫 To reach me **gva401@gmail.com**
 
-- ⚡ Tech fact **Saving Time is Future Investment!*
+- ⚡ Tech fact **Saving Time is Future Investment!**
 
 
 <p align="left">
