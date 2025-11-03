@@ -33,7 +33,7 @@
 
 ### 🪶 GSSoC (2025) Badges
 <div align="center">
-    <img src="https://raw.githubusercontent.com/vinit105/vinit105/main/gssoc25.jpg" width="100" height="100" alt="GSSoC 2025 Badge" />
+    <img src="https://github.com/vinit105/vinit105/blob/main/gssoc25.png" width="100" height="100" alt="GSSoC 2025 Badge" />
 </div>
 
 
