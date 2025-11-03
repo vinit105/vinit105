@@ -49,6 +49,10 @@
   </a>
 </div>
 
+### 🪶 Miscellaneous
+<div align="center">
+    <img src="https://github.com/vinit105/vinit105/blob/main/arcade.png" width="100" height="100" alt="GSSoC 2025 Badge" />
+</div>
 
 
 
