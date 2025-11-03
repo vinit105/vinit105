@@ -30,15 +30,9 @@
 
 </div>
 
-
-### 🪶 GSSoC (2025) Badges
+### 🌸 GSSoC (2024,2025) Badges
 <div align="center">
-    <img src="https://github.com/vinit105/vinit105/blob/main/gssoc25.png" width="100" height="100" alt="GSSoC 2025 Badge" />
-</div>
-
-
-### 🌸 GSSoC (2024 Extd) Badges
-<div align="center">
+     <img src="https://github.com/vinit105/vinit105/blob/main/gssoc25.png" width="100" height="100" alt="GSSoC 2025 Badge" />
   <a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=vinit105">
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100" height="100" alt="Postman White" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100" height="100" alt="Badge 1" />
