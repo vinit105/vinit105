@@ -20,17 +20,37 @@
 <p align="left">
 </p>
 
-### GSSOC(2024Extd) Badges 🪶
-<br>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=vinit105">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" gap="10px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-</a>
+## 🏅 Achievements & Badges   
+
+### 🧩 LeetCode Badges
+<div align="center">
+    <img src="https://raw.githubusercontent.com/vinit105/vinit105/main/Premium_SQL_50.png" width="100" height="100" alt="Premium SQL 50 Badge" />
+    <img src="https://raw.githubusercontent.com/vinit105/vinit105/main/Top_SQL_50.png" width="100" height="100" alt="Top SQL 50 Badge" />
+    <img src="https://raw.githubusercontent.com/vinit105/vinit105/main/2024-50-lg.png" width="100" height="100" alt="LeetCode 2024 50 Badge" />
+
 </div>
+
+
+### 🪶 GSSoC (2025) Badges
+<div align="center">
+    <img src="https://raw.githubusercontent.com/vinit105/vinit105/main/gssoc25.jpg" width="100" height="100" alt="GSSoC 2025 Badge" />
+</div>
+
+
+### 🌸 GSSoC (2024 Extd) Badges
+<div align="center">
+  <a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=vinit105">
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100" height="100" alt="Postman White" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100" height="100" alt="Badge 1" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100" height="100" alt="Badge 2" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100" height="100" alt="Badge 3" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100" height="100" alt="Badge 4" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100" height="100" alt="Badge 5" />
+  </a>
+</div>
+
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
